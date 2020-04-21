@@ -49,9 +49,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\API\cAlgo.API.dll</HintPath>
     </Reference>
-    <Reference Include="cTrader-GURU">
-      <HintPath>..\..\..\..\..\GitHub\cTrader-GURU-Utility\DLL-COMPILED\cTrader-GURU.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MARSI.cs" />
