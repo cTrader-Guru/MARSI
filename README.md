@@ -1,4 +1,4 @@
 # MARSI
-Tra gli oscillatori più utilizzati in assoluto
 
-Scarica la [versione compilata](https://ctrader.guru/product/marsi/) oppure compila il sorgente utilizzando la cTrader
+
+[Find more indicators, cbots and tools](https://ctrader-guru.github.io)
